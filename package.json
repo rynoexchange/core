@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "migrate": "truffle migrate"
+  },
+  "devDependencies": {
+    "truffle": "^5.4.9",
+    "truffle-hdwallet-provider": "^1.0.17"
+  }
+}
